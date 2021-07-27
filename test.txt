@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://i.stack.imgur.com/Vkq2a.png" tvg-country="IL" tvg-url="" group-title="Shop",לעדכון הכנסו ללינק rebrand.ly/isratv-app
-http://rip
 
 
 
@@ -76,3 +74,6 @@ https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.alllies.org/wp-content/uploads/2012/01/hapach_Hagadol.jpg" tvg-country="IL" tvg-url="" group-title="",האח הגדול
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://i.stack.imgur.com/Vkq2a.png" tvg-country="IL" tvg-url="" group-title="Shop",לעדכון הכנסו ללינק rebrand.ly/isratv-app
+http://rip
